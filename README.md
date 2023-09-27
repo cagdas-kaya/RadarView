@@ -21,7 +21,7 @@ allprojects {
 
 After that add bellow dependancy in your app level gradle 
 ```
-   implementation 'com.github.cagdas-kaya:RadarView:1.0.0'
+   implementation 'com.github.cgdsky:RadarView:1.0.0'
 
 ```
 ### Example
