@@ -50,7 +50,7 @@ dependencies {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'com.github.cagdas-kaya'
+            groupId = 'com.github.cgdsky'
             artifactId = 'radarview'
             version = '1.0.0'
 
